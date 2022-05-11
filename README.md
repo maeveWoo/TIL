@@ -1,5 +1,8 @@
 # TIL
-## 22. MAY
+
+---
+
+## 22. MAY daily
 목표 : 
 1. 웹 기초 읽고 정리하기. 
 2. SCSS 배우고 활용하기.
@@ -20,16 +23,18 @@
 - MDN HTML 읽고 정리(What's in the head? Metadata in HTML) [ :white_check_mark: ]
 - 내 홈페이지 기획 구상 [ :white_check_mark: ]
 - SpringBoot Thymelaef 예제 (PetClinic) 분석 [ :white_check_mark: ]
-- 스프링부트 읽기 chap1, 2!!!!
+- 스프링부트 읽기 chap1, 2!!!! [:warning:]
 
 -- 한줄 평. 홈페이지 구상하는데 막막하기도 하면서. 흥미진진해서 시간이 잘 갔다. 막 구상하긴했는데, 과연 내가 구현할 수 있을지... HTML head태그를 읽고 정리하면서 대충 알고있던 내용이 정리되었다. 
 특히, SEO부분을 읽으면서 MDN문서가 정리를 참 잘했구나.. 싶었다. 헠헠 
 
 ### 11th
-- MDN JS first steps 정리
-- MDN HTML 읽고 정리
+- MDN JS first steps 정리 [ :white_check_mark: ]
+- SpringBoot 실험실 생성. 빈충돌 실험 (소문자클래스 컴포넌트, 자동/수동 빈 이름같을 때) [ :white_check_mark: ]
+- Spring 기본, 컴포넌트 스캔 읽기 [ :white_check_mark: ]
+- MDN HTML 읽고 정리(HTML text fundamentals)
 - LeetCode Binary tree 공부
-- 스프링부트 읽기 
+- :bomb: 스프링부트 읽기 chap1, 2!!!! 
 
 ---
 
