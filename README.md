@@ -17,10 +17,13 @@
 
 ### 10th
 - MDN Web 정리, JS첫 과제 [ :white_check_mark: ]
-- MDN HTML 읽고 정리(What's in the head? Metadata in HTML)
+- MDN HTML 읽고 정리(What's in the head? Metadata in HTML) [ :white_check_mark: ]
 - 내 홈페이지 기획 구상 [ :white_check_mark: ]
 - SpringBoot Thymelaef 예제 (PetClinic) 분석 [ :white_check_mark: ]
 - 스프링부트 읽기 chap1, 2!!!!
+
+-- 한줄 평. 홈페이지 구상하는데 막막하기도 하면서. 흥미진진해서 시간이 잘 갔다. 막 구상하긴했는데, 과연 내가 구현할 수 있을지... HTML head태그를 읽고 정리하면서 대충 알고있던 내용이 정리되었다. 
+특히, SEO부분을 읽으면서 MDN문서가 정리를 참 잘했구나.. 싶었다. 헠헠 
 
 ### 11th
 - MDN JS first steps 정리
