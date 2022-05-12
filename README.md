@@ -44,11 +44,15 @@
 - MDN JS 변수, 연산자 읽기 [ :white_check_mark: ]
 - :bomb: MDN HTML 읽고 정리(HTML text fundamentals) [ :white_check_mark: ]
 - MDN HTML 읽고 정리(Creating hyperlinks)
-- SpringBoot 기초 읽기
+- [SpringBoot Doc 격파 - Build an Application](https://spring.io/guides/gs/spring-boot/) rest말구 어플리케이션!
 - SpringBoot Data JPA 테스트 세팅 (대용량 데이터) [ :white_check_mark: ]
 
 ## 13th
 - MDN JS Numbers and Operators, Strings in JavaScript, Useful string methods
+- [SpringBoot Doc 격파 - Securing a Web Application](https://spring.io/guides/gs/securing-web/)
+
+## 14th
+- [SpringBoot Doc 격파 - Soring MVC](https://spring.io/guides/gs/serving-web-content/)
 
 
 ---
