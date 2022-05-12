@@ -32,9 +32,24 @@
 - MDN JS first steps 정리 [ :white_check_mark: ]
 - SpringBoot 실험실 생성. 빈충돌 실험 (소문자클래스 컴포넌트, 자동/수동 빈 이름같을 때) [ :white_check_mark: ]
 - Spring 기본, 컴포넌트 스캔 읽기 [ :white_check_mark: ]
-- MDN HTML 읽고 정리(HTML text fundamentals)
-- LeetCode Binary tree 공부
-- :bomb: 스프링부트 읽기 chap1, 2!!!! 
+- MDN HTML 읽고 정리(HTML text fundamentals) [:warning:]
+- LeetCode Binary tree 공부 [:warning:]
+- :bomb: 스프링부트 읽기 chap1, 2!!!! [:warning:]
+
+-- 한줄 평. 코드리뷰가있어서 스프링 복습을 쫌 했다. 집에오면 밥먹고 택배 뜯고, 하나씩 오는 가구들 조립하고, 쓰레기 버리러 나가야되고, 물건도 사러가야되고.. 하루가 꽉꽉 찬다..책 몇글자 읽으면 기절..할일이 너무 많아.. 흑흑
+제주도는 쓰레기버리러 두 블럭이나 이고지고가서 나 분리해서 버려야되는데... 너무 피곤..큰박스들 어이구. 패턴을 찾아서 효율적이고 여유로운 일상을 만들자! 공부량을 늘리는 방법에대해 고민
+
+### 12th
+- MDN JS 야구게임, troubleshooting [ :white_check_mark: ]
+- MDN JS 변수, 연산자 읽기 [ :white_check_mark: ]
+- :bomb: MDN HTML 읽고 정리(HTML text fundamentals) [ :white_check_mark: ]
+- MDN HTML 읽고 정리(Creating hyperlinks)
+- SpringBoot 기초 읽기
+- SpringBoot Data JPA 테스트 세팅 (대용량 데이터) [ :white_check_mark: ]
+
+## 13th
+- MDN JS Numbers and Operators, Strings in JavaScript, Useful string methods
+
 
 ---
 
