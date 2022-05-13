@@ -43,18 +43,26 @@
 - MDN JS 야구게임, troubleshooting [ :white_check_mark: ]
 - MDN JS 변수, 연산자 읽기 [ :white_check_mark: ]
 - :bomb: MDN HTML 읽고 정리(HTML text fundamentals) [ :white_check_mark: ]
-- MDN HTML 읽고 정리(Creating hyperlinks)
-- [SpringBoot Doc 격파 - Build an Application](https://spring.io/guides/gs/spring-boot/) rest말구 어플리케이션!
+- MDN HTML 읽고 정리(Creating hyperlinks) [:warning:]
+- [SpringBoot Doc 격파 - Build an Application](https://spring.io/guides/gs/spring-boot/) : rest말구 어플리케이션! [:warning:]
 - SpringBoot Data JPA 테스트 세팅 (대용량 데이터) [ :white_check_mark: ]
 
+-- 한줄 평. 예전에는 프론트쪽도 나름 잘한다고 생각했는데,.. 왜이렇게 새로운가.. 작은 따옴표랑 간단한 스코프문제로 한참을 시간을 보내고 현타가 왔다.. 열씨미 공부해야지.
+
 ## 13th
-- MDN JS Numbers and Operators, Strings in JavaScript, Useful string methods
-- [SpringBoot Doc 격파 - Securing a Web Application](https://spring.io/guides/gs/securing-web/)
+- :bomb: MDN HTML 읽고 정리(Creating hyperlinks) [ :white_check_mark: ]
+- MDN HTML 읽고 정리(Advanced text formatting) [ :white_check_mark: ]
+- MDN JS Numbers and Operators, Strings in JavaScript, Useful string methods [ :white_check_mark: ]
+- :bomb:[SpringBoot Doc 격파 - Build an Application](https://spring.io/guides/gs/spring-boot/) : rest말구 어플리케이션!
+- [SpringBoot Doc 격파 - Securing a Web Application](https://spring.io/guides/gs/securing-web/)  :love_letter:
+- 대용량 데이터에 추가될 테이블 고민 : 계정정보, 재고관리 정도?
 
 ## 14th
 - [SpringBoot Doc 격파 - Soring MVC](https://spring.io/guides/gs/serving-web-content/)
 
 
 ---
+
+- [MDN Front-end web developer 과정 체크](https://developer.mozilla.org/ko/docs/Learn/Front-end_web_developer)
 
 바닐라JS -> ECMA정리 -> React/Node.js -> 내 홈페이지 Node.js / React기반으로 마이그레이션 -> 서비스 올리기
