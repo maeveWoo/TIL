@@ -1,5 +1,7 @@
 # TIL
 
+today i learned
+
 ---
 
 ## 22. MAY daily
@@ -53,13 +55,13 @@
 - :bomb: MDN HTML 읽고 정리(Creating hyperlinks) [ :white_check_mark: ]
 - MDN HTML 읽고 정리(Advanced text formatting) [ :white_check_mark: ]
 - MDN JS Numbers and Operators, Strings in JavaScript, Useful string methods [ :white_check_mark: ]
-- :bomb:[SpringBoot Doc 격파 - Build an Application](https://spring.io/guides/gs/spring-boot/) : rest말구 어플리케이션!
-- [SpringBoot Doc 격파 - Securing a Web Application](https://spring.io/guides/gs/securing-web/)  :love_letter:
+- :bomb:[SpringBoot Doc 격파 - Build an Application](https://spring.io/guides/gs/spring-boot/) : rest말구 어플리케이션! [ :white_check_mark: ]
+- [SpringBoot Doc 격파 - Securing a Web Application](https://spring.io/guides/gs/securing-web/)  :love_letter: [ :white_check_mark: ]
 - 대용량 데이터에 추가될 테이블 고민 : 계정정보, 재고관리 정도?
 
 ## 14th
 - [SpringBoot Doc 격파 - Soring MVC](https://spring.io/guides/gs/serving-web-content/)
-
+- [SpringBoot Doc 격파 - Security Architecture](https://spring.io/guides/topicals/spring-security-architecture/)
 
 ---
 
