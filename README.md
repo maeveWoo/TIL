@@ -65,9 +65,12 @@ today i learned
 
 ## 16th
 - MDN JS Arrays, 평가 
-- MDN JS : Conditions, Looping Code 
+- MDN JS : Conditions, Looping Code [ :white_check_mark: ]
 - MDN HTML : Document & website structure, Debugging HTML 읽 정리
-- [SpringBoot Doc 격파 - Soring MVC](https://spring.io/guides/gs/serving-web-content/)
+- [SpringBoot Doc 격파 - Soring MVC](https://spring.io/guides/gs/serving-web-content/) [ :white_check_mark: ]
+- Spring Security 인강들어야겠다! TDD도!
+
+- 주간 목표 : Java 기반 TDD, JPA 연습 시급
 
 ## 17th
 - [SpringBoot Doc 격파 - Security Architecture](https://spring.io/guides/topicals/spring-security-architecture/)
