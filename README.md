@@ -59,7 +59,13 @@ today i learned
 - [SpringBoot Doc 격파 - Securing a Web Application](https://spring.io/guides/gs/securing-web/)  :love_letter: [ :white_check_mark: ]
 - 대용량 데이터에 추가될 테이블 고민 : 계정정보, 재고관리 정도?
 
-## 14th
+## 주말
+주말이 왜 더 바쁘고 힘들지 헠헠..
+집도 어느정도 정리되었으니. 책읽고, 공부하는 습관 만들기 들어가야겠다. 건강은 언제 좋아질려나!
+
+## 16th
+- MDN JS Arrays, 평가 
+- MDN Conditions, Looping Code 
 - [SpringBoot Doc 격파 - Soring MVC](https://spring.io/guides/gs/serving-web-content/)
 - [SpringBoot Doc 격파 - Security Architecture](https://spring.io/guides/topicals/spring-security-architecture/)
 
