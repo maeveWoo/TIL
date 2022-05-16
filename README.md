@@ -65,8 +65,11 @@ today i learned
 
 ## 16th
 - MDN JS Arrays, 평가 
-- MDN Conditions, Looping Code 
+- MDN JS : Conditions, Looping Code 
+- MDN HTML : Document & website structure, Debugging HTML 읽 정리
 - [SpringBoot Doc 격파 - Soring MVC](https://spring.io/guides/gs/serving-web-content/)
+
+## 17th
 - [SpringBoot Doc 격파 - Security Architecture](https://spring.io/guides/topicals/spring-security-architecture/)
 
 ---
