@@ -64,16 +64,25 @@ today i learned
 집도 어느정도 정리되었으니. 책읽고, 공부하는 습관 만들기 들어가야겠다. 건강은 언제 좋아질려나!
 
 ## 16th
-- MDN JS Arrays, 평가 
+- MDN JS Arrays, 평가 [ :white_check_mark: ] (실습 챙겨!)
 - MDN JS : Conditions, Looping Code [ :white_check_mark: ]
 - MDN HTML : Document & website structure, Debugging HTML 읽 정리
 - [SpringBoot Doc 격파 - Soring MVC](https://spring.io/guides/gs/serving-web-content/) [ :white_check_mark: ]
 - Spring Security 인강들어야겠다! TDD도!
 
-- 주간 목표 : Java 기반 TDD, JPA 연습 시급
+-- 주간 목표 : Java 기반 TDD, JPA 연습 시급.
+오늘.. 엘리베이터에서 사고가있어서 경찰오고 담당형사가 생겼다. 왠 미친놈이 엘리베이터에서 위협해서.. 한바탕 난리를 침.. 아 멘탈..
 
 ## 17th
-- [SpringBoot Doc 격파 - Security Architecture](https://spring.io/guides/topicals/spring-security-architecture/)
+- [SpringBoot Doc 격파 - Security Architecture](https://spring.io/guides/topicals/spring-security-architecture/) [:running:]
+- :bomb: MDN HTML : Document & website structure, Debugging HTML 읽 정리 [ :white_check_mark: ]
+
+-- 어재 사건 사고떄문에 잠을 못잤더니, 8시부터 졸려 죽을 뻔했다.. 하루종일 피건.. 피건한 상태로 보는 Security Architecture는 정말 끔찍해! 그래도 공식 Docs보면서 정리하니 좋다. 잘 정리됬네
+
+## 18th
+- [SpringBoot Doc 격파 - Security Architecture](https://spring.io/guides/topicals/spring-security-architecture/) [:running:]
+- MDN HTML : 평가 Marking up a letter, Structuring a page of content
+- MDN JS : Functions
 
 ---
 
