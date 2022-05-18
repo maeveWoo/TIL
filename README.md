@@ -82,7 +82,12 @@ today i learned
 ## 18th
 - [SpringBoot Doc 격파 - Security Architecture](https://spring.io/guides/topicals/spring-security-architecture/) [:running:]
 - MDN HTML : 평가 Marking up a letter, Structuring a page of content
-- MDN JS : Functions
+- MDN JS : Functions & return [ :white_check_mark: ]
+- MDN JS : Event [ :white_check_mark: ]
+- :gun: Form Controll 연습하기 (https://spring.io/guides/gs/handling-form-submission/)
+- :gun: Form Validating(https://spring.io/guides/gs/validating-form-input/)
+
+-- 이벤트 대박 재밌다! 꼭 한번더 복습하자! 너무 재밌다! 예전에 뭔 소린지 못알아 먹었던 부분도 이제 이해가 되면서 재미가있네! 머선 120  
 
 ---
 
