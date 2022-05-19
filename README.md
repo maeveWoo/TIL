@@ -81,16 +81,28 @@ today i learned
 
 ## 18th
 - [SpringBoot Doc 격파 - Security Architecture](https://spring.io/guides/topicals/spring-security-architecture/) [:running:]
-- MDN HTML : 평가 Marking up a letter, Structuring a page of content
 - MDN JS : Functions & return [ :white_check_mark: ]
 - MDN JS : Event [ :white_check_mark: ]
-- :gun: Form Controll 연습하기 (https://spring.io/guides/gs/handling-form-submission/)
-- :gun: Form Validating(https://spring.io/guides/gs/validating-form-input/)
 
--- 이벤트 대박 재밌다! 꼭 한번더 복습하자! 너무 재밌다! 예전에 뭔 소린지 못알아 먹었던 부분도 이제 이해가 되면서 재미가있네! 머선 120  
+-- 이벤트 대박 재밌다! 꼭 한번더 복습하자! 너무 재밌다! 예전에 뭔 소린지 못알아 먹었던 부분도 이제 이해가 되면서 재미가있네! 머선 120
+제주 이사오고 마가 끼었는지.. 잡일이 너무 많다.. 피곤해.. 내시간을 많이 못만드는 중...
+
+## 19th
+- :bomb: MDN HTML : 평가 Marking up a letter, Structuring a page of content
+- MDN JS : Image gallery
+- :gun: [SpringBoot Doc 격파 - Form Controll 연습하기](https://spring.io/guides/gs/handling-form-submission/) [ :white_check_mark: ]
+- :gun: [SpringBoot Doc 격파 - Form Validating](https://spring.io/guides/gs/validating-form-input/) [ :white_check_mark: ]
+
+## 20th
+- [SpringBoot Doc 격파 - Uploading Files](https://spring.io/guides/gs/uploading-files/)
+
 
 ---
 
 - [MDN Front-end web developer 과정 체크](https://developer.mozilla.org/ko/docs/Learn/Front-end_web_developer)
+spring 5.3.20 Docs 기준
+- [SpringBoot Doc 격파 - Testing](https://docs.spring.io/spring-framework/docs/current/reference/html/testing.html#testing)
+- [SpringBoot Doc 격파 - Core](https://docs.spring.io/spring-framework/docs/current/reference/html/core.html#spring-core)
+- [SpringBoot Doc 격파 - Web Servlet](https://docs.spring.io/spring-framework/docs/current/reference/html/web.html#spring-web)
 
 바닐라JS -> ECMA정리 -> React/Node.js -> 내 홈페이지 Node.js / React기반으로 마이그레이션 -> 서비스 올리기
