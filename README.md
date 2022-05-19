@@ -89,13 +89,15 @@ today i learned
 
 ## 19th
 - :bomb: MDN HTML : 평가 Marking up a letter, Structuring a page of content
-- MDN JS : Image gallery
+- MDN JS : Object Basic [ :white_check_mark: ]
 - :gun: [SpringBoot Doc 격파 - Form Controll 연습하기](https://spring.io/guides/gs/handling-form-submission/) [ :white_check_mark: ]
 - :gun: [SpringBoot Doc 격파 - Form Validating](https://spring.io/guides/gs/validating-form-input/) [ :white_check_mark: ]
+- [SpringBoot Doc 격파 - Security Architecture](https://spring.io/guides/topicals/spring-security-architecture/)
 
 ## 20th
 - [SpringBoot Doc 격파 - Uploading Files](https://spring.io/guides/gs/uploading-files/)
-
+- [SpringBoot Doc 격파 - Security Architecture](https://spring.io/guides/topicals/spring-security-architecture/)
+- MDN JS : Object prototypes 
 
 ---
 
