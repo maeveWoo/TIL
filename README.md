@@ -88,15 +88,16 @@ today i learned
 제주 이사오고 마가 끼었는지.. 잡일이 너무 많다.. 피곤해.. 내시간을 많이 못만드는 중...
 
 ## 19th
-- :bomb: MDN HTML : 평가 Marking up a letter, Structuring a page of content
+- :bomb: MDN HTML : 평가 Marking up a letter, Structuring a page of content :confounded:
 - MDN JS : Object Basic [ :white_check_mark: ]
 - :gun: [SpringBoot Doc 격파 - Form Controll 연습하기](https://spring.io/guides/gs/handling-form-submission/) [ :white_check_mark: ]
 - :gun: [SpringBoot Doc 격파 - Form Validating](https://spring.io/guides/gs/validating-form-input/) [ :white_check_mark: ]
-- [SpringBoot Doc 격파 - Security Architecture](https://spring.io/guides/topicals/spring-security-architecture/)
+- [SpringBoot Doc 격파 - Security Architecture](https://spring.io/guides/topicals/spring-security-architecture/) [:running:]
 
 ## 20th
-- [SpringBoot Doc 격파 - Uploading Files](https://spring.io/guides/gs/uploading-files/)
-- [SpringBoot Doc 격파 - Security Architecture](https://spring.io/guides/topicals/spring-security-architecture/)
+- [SpringBoot Doc 격파 - Uploading Files](https://spring.io/guides/gs/uploading-files/) [:running:]
+- [SpringBoot Doc 격파 - Security Architecture](https://spring.io/guides/topicals/spring-security-architecture/) [:running:]
+- [SpringBoot Doc 격파 - Security Docs](https://docs.spring.io/spring-security/site/docs/5.0.19.RELEASE/reference/htmlsingle/) [:running:]
 - MDN JS : Object prototypes 
 
 ---
