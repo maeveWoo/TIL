@@ -98,7 +98,15 @@ today i learned
 - [SpringBoot Doc 격파 - Uploading Files](https://spring.io/guides/gs/uploading-files/) [:running:]
 - [SpringBoot Doc 격파 - Security Architecture](https://spring.io/guides/topicals/spring-security-architecture/) [:running:]
 - [SpringBoot Doc 격파 - Security Docs](https://docs.spring.io/spring-security/site/docs/5.0.19.RELEASE/reference/htmlsingle/) [:running:]
-- MDN JS : Object prototypes 
+- MDN JS : Object prototypes
+
+## 23th
+- [SpringBoot Doc 격파 - Uploading Files](https://spring.io/guides/gs/uploading-files/) [:running:]
+- [SpringBoot Doc 격파 - Security Architecture](https://spring.io/guides/topicals/spring-security-architecture/) [:running:]
+- [SpringBoot Doc 격파 - Security Docs](https://docs.spring.io/spring-security/site/docs/5.0.19.RELEASE/reference/htmlsingle/) [:running:]
+- MDN JS : Object prototypes
+- :star: BackOffice 제품 만들기 각잡기! JPA 책 정독 & 틀잡기
+- :green_book: [@SuppressWarnings 췤! (코들린 @Suppress)](https://ktko.tistory.com/entry/Java%EC%9D%98-SuppressWarnings-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0)
 
 ---
 
