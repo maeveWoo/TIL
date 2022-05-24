@@ -107,7 +107,11 @@ today i learned
 - MDN JS : Object prototypes
 - :star: BackOffice 제품 만들기 각잡기! JPA 책 정독 & 틀잡기
 - :green_book: [@SuppressWarnings 췤! (코들린 @Suppress)](https://ktko.tistory.com/entry/Java%EC%9D%98-SuppressWarnings-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0)
-- :green_book: [SpringBoot Deprecated List](https://docs.spring.io/spring-data/jpa/docs/current/api/deprecated-list.html)
+- :green_book: [Spring Data JPA Deprecated List](https://docs.spring.io/spring-data/jpa/docs/current/api/deprecated-list.html)
+
+## 24th
+- MDN JS : Object prototypes
+- MDN HTML : Multimedia and embedding
 
 ---
 
