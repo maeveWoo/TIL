@@ -112,7 +112,11 @@ today i learned
 ## 24th
 - MDN JS : Object prototypes
 - MDN HTML : Multimedia and embedding
-
+- 라이브러리 제공, 업뎃 방법 등 제품 관리방법 알아보기
+- [Springboot 2.7 gradle docs](https://docs.spring.io/spring-boot/docs/current/gradle-plugin/reference/htmlsingle/#introduction)
+- [멀티 모듈 구성하기](https://techblog.woowahan.com/2637/)
+- [Spring Security 5.7 WebSecurityConfigurerAdapter deprecated](https://spring.io/blog/2022/02/21/spring-security-without-the-websecurityconfigureradapter)
+- [Spring Data JPA - OSIV]
 ---
 
 - [MDN Front-end web developer 과정 체크](https://developer.mozilla.org/ko/docs/Learn/Front-end_web_developer)
