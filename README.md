@@ -117,6 +117,26 @@ today i learned
 - [멀티 모듈 구성하기](https://techblog.woowahan.com/2637/)
 - [Spring Security 5.7 WebSecurityConfigurerAdapter deprecated](https://spring.io/blog/2022/02/21/spring-security-without-the-websecurityconfigureradapter)
 - [Spring Data JPA - OSIV]
+
+## 25th
+- [Springboot 2.7 Web - Auto-configuration 정리하자!](https://docs.spring.io/spring-boot/docs/2.7.0-SNAPSHOT/reference/html/web.html#web)
+
+## 26th
+- MDN JS : Object prototypes [ :white_check_mark: ]
+- MDN JS : OOP [ :white_check_mark: ]
+
+## 27th
+- MDN JS Class in JS 
+- MDN JS Working with JSON data 
+
+## 주말
+- Java Spring-boot 백오피스 멀티모듈 구성 build 스크립트 꼭 완성하기! 기본동작 확인해고 제품 확인 필수
+- [Spring/Spring-boot version 별 특징](https://velog.io/@jh8579/Spring-%EB%B2%84%EC%A0%BC%EB%B3%84-%ED%8A%B9%EC%A7%95)
+- [SpringBoot Doc 격파 - Uploading Files](https://spring.io/guides/gs/uploading-files/) [:running:]
+  - [mvc-flash-attributes 이게 모야?](https://docs.spring.io/spring-framework/docs/current/reference/html/web.html#mvc-flash-attributes)
+- [SpringBoot Doc 격파 - Security Architecture](https://spring.io/guides/topicals/spring-security-architecture/) [:running:]
+- [SpringBoot Doc 격파 - Security Docs](https://docs.spring.io/spring-security/site/docs/5.0.19.RELEASE/reference/htmlsingle/) [:running:]
+
 ---
 
 - [MDN Front-end web developer 과정 체크](https://developer.mozilla.org/ko/docs/Learn/Front-end_web_developer)
