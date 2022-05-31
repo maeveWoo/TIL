@@ -126,16 +126,31 @@ today i learned
 - MDN JS : OOP [ :white_check_mark: ]
 
 ## 27th
-- MDN JS Class in JS 
-- MDN JS Working with JSON data 
+- MDN JS Class in JS [ :white_check_mark: ]
+- MDN JS Working with JSON data [ :white_check_mark: ]
+- [SpringBoot Doc 격파 - Security Architecture](https://spring.io/guides/topicals/spring-security-architecture/) [:running:]
 
 ## 주말
+- 복습 : 정리한 내용 다시 정독. 교육 컨텐츠로써 내용 보강하기. 느낀점과 내가 보강해야할 내용 체크하기.
 - Java Spring-boot 백오피스 멀티모듈 구성 build 스크립트 꼭 완성하기! 기본동작 확인해고 제품 확인 필수
 - [Spring/Spring-boot version 별 특징](https://velog.io/@jh8579/Spring-%EB%B2%84%EC%A0%BC%EB%B3%84-%ED%8A%B9%EC%A7%95)
 - [SpringBoot Doc 격파 - Uploading Files](https://spring.io/guides/gs/uploading-files/) [:running:]
   - [mvc-flash-attributes 이게 모야?](https://docs.spring.io/spring-framework/docs/current/reference/html/web.html#mvc-flash-attributes)
 - [SpringBoot Doc 격파 - Security Architecture](https://spring.io/guides/topicals/spring-security-architecture/) [:running:]
 - [SpringBoot Doc 격파 - Security Docs](https://docs.spring.io/spring-security/site/docs/5.0.19.RELEASE/reference/htmlsingle/) [:running:]
+
+## 30th
+- 빠진 실습(JSON 핸들링) 꼭 해보기.
+- JS Object 실습 bounce ball
+- MDN JS Asynchronous [ :white_check_mark: ]
+- MDN JS Promise [:running:]
+
+헉헉.. 파일 업로드와 전쟁을 쫌 치룬다고 시간을 많이 보냈다..
+
+## 31th
+- MDN JS Promise 
+- FileUpload와 FormData, HTTP Post 요청 구성요소 파헤치기
+
 
 ---
 
