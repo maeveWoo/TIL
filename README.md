@@ -51,7 +51,7 @@ today i learned
 
 -- 한줄 평. 예전에는 프론트쪽도 나름 잘한다고 생각했는데,.. 왜이렇게 새로운가.. 작은 따옴표랑 간단한 스코프문제로 한참을 시간을 보내고 현타가 왔다.. 열씨미 공부해야지.
 
-## 13th
+### 13th
 - :bomb: MDN HTML 읽고 정리(Creating hyperlinks) [ :white_check_mark: ]
 - MDN HTML 읽고 정리(Advanced text formatting) [ :white_check_mark: ]
 - MDN JS Numbers and Operators, Strings in JavaScript, Useful string methods [ :white_check_mark: ]
@@ -59,11 +59,11 @@ today i learned
 - [SpringBoot Doc 격파 - Securing a Web Application](https://spring.io/guides/gs/securing-web/)  :love_letter: [ :white_check_mark: ]
 - 대용량 데이터에 추가될 테이블 고민 : 계정정보, 재고관리 정도?
 
-## 주말
+### 주말
 주말이 왜 더 바쁘고 힘들지 헠헠..
 집도 어느정도 정리되었으니. 책읽고, 공부하는 습관 만들기 들어가야겠다. 건강은 언제 좋아질려나!
 
-## 16th
+### 16th
 - MDN JS Arrays, 평가 [ :white_check_mark: ] (실습 챙겨!)
 - MDN JS : Conditions, Looping Code [ :white_check_mark: ]
 - MDN HTML : Document & website structure, Debugging HTML 읽 정리
@@ -73,13 +73,13 @@ today i learned
 -- 주간 목표 : Java 기반 TDD, JPA 연습 시급.
 오늘.. 엘리베이터에서 사고가있어서 경찰오고 담당형사가 생겼다. 왠 미친놈이 엘리베이터에서 위협해서.. 한바탕 난리를 침.. 아 멘탈..
 
-## 17th
+### 17th
 - [SpringBoot Doc 격파 - Security Architecture](https://spring.io/guides/topicals/spring-security-architecture/) [:running:]
 - :bomb: MDN HTML : Document & website structure, Debugging HTML 읽 정리 [ :white_check_mark: ]
 
 -- 어재 사건 사고떄문에 잠을 못잤더니, 8시부터 졸려 죽을 뻔했다.. 하루종일 피건.. 피건한 상태로 보는 Security Architecture는 정말 끔찍해! 그래도 공식 Docs보면서 정리하니 좋다. 잘 정리됬네
 
-## 18th
+### 18th
 - [SpringBoot Doc 격파 - Security Architecture](https://spring.io/guides/topicals/spring-security-architecture/) [:running:]
 - MDN JS : Functions & return [ :white_check_mark: ]
 - MDN JS : Event [ :white_check_mark: ]
@@ -87,20 +87,20 @@ today i learned
 -- 이벤트 대박 재밌다! 꼭 한번더 복습하자! 너무 재밌다! 예전에 뭔 소린지 못알아 먹었던 부분도 이제 이해가 되면서 재미가있네! 머선 120
 제주 이사오고 마가 끼었는지.. 잡일이 너무 많다.. 피곤해.. 내시간을 많이 못만드는 중...
 
-## 19th
+### 19th
 - :bomb: MDN HTML : 평가 Marking up a letter, Structuring a page of content :confounded:
 - MDN JS : Object Basic [ :white_check_mark: ]
 - :gun: [SpringBoot Doc 격파 - Form Controll 연습하기](https://spring.io/guides/gs/handling-form-submission/) [ :white_check_mark: ]
 - :gun: [SpringBoot Doc 격파 - Form Validating](https://spring.io/guides/gs/validating-form-input/) [ :white_check_mark: ]
 - [SpringBoot Doc 격파 - Security Architecture](https://spring.io/guides/topicals/spring-security-architecture/) [:running:]
 
-## 20th
+### 20th
 - [SpringBoot Doc 격파 - Uploading Files](https://spring.io/guides/gs/uploading-files/) [:running:]
 - [SpringBoot Doc 격파 - Security Architecture](https://spring.io/guides/topicals/spring-security-architecture/) [:running:]
 - [SpringBoot Doc 격파 - Security Docs](https://docs.spring.io/spring-security/site/docs/5.0.19.RELEASE/reference/htmlsingle/) [:running:]
 - MDN JS : Object prototypes
 
-## 23th
+### 23th
 - [SpringBoot Doc 격파 - Uploading Files](https://spring.io/guides/gs/uploading-files/) [:running:]
 - [SpringBoot Doc 격파 - Security Architecture](https://spring.io/guides/topicals/spring-security-architecture/) [:running:]
 - [SpringBoot Doc 격파 - Security Docs](https://docs.spring.io/spring-security/site/docs/5.0.19.RELEASE/reference/htmlsingle/) [:running:]
@@ -109,7 +109,7 @@ today i learned
 - :green_book: [@SuppressWarnings 췤! (코들린 @Suppress)](https://ktko.tistory.com/entry/Java%EC%9D%98-SuppressWarnings-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0)
 - :green_book: [Spring Data JPA Deprecated List](https://docs.spring.io/spring-data/jpa/docs/current/api/deprecated-list.html)
 
-## 24th
+### 24th
 - MDN JS : Object prototypes
 - MDN HTML : Multimedia and embedding
 - 라이브러리 제공, 업뎃 방법 등 제품 관리방법 알아보기
@@ -118,28 +118,19 @@ today i learned
 - [Spring Security 5.7 WebSecurityConfigurerAdapter deprecated](https://spring.io/blog/2022/02/21/spring-security-without-the-websecurityconfigureradapter)
 - [Spring Data JPA - OSIV]
 
-## 25th
+### 25th
 - [Springboot 2.7 Web - Auto-configuration 정리하자!](https://docs.spring.io/spring-boot/docs/2.7.0-SNAPSHOT/reference/html/web.html#web)
 
-## 26th
+### 26th
 - MDN JS : Object prototypes [ :white_check_mark: ]
 - MDN JS : OOP [ :white_check_mark: ]
 
-## 27th
+### 27th
 - MDN JS Class in JS [ :white_check_mark: ]
 - MDN JS Working with JSON data [ :white_check_mark: ]
 - [SpringBoot Doc 격파 - Security Architecture](https://spring.io/guides/topicals/spring-security-architecture/) [:running:]
 
-## 주말
-- 복습 : 정리한 내용 다시 정독. 교육 컨텐츠로써 내용 보강하기. 느낀점과 내가 보강해야할 내용 체크하기.
-- Java Spring-boot 백오피스 멀티모듈 구성 build 스크립트 꼭 완성하기! 기본동작 확인해고 제품 확인 필수
-- [Spring/Spring-boot version 별 특징](https://velog.io/@jh8579/Spring-%EB%B2%84%EC%A0%BC%EB%B3%84-%ED%8A%B9%EC%A7%95)
-- [SpringBoot Doc 격파 - Uploading Files](https://spring.io/guides/gs/uploading-files/) [:running:]
-  - [mvc-flash-attributes 이게 모야?](https://docs.spring.io/spring-framework/docs/current/reference/html/web.html#mvc-flash-attributes)
-- [SpringBoot Doc 격파 - Security Architecture](https://spring.io/guides/topicals/spring-security-architecture/) [:running:]
-- [SpringBoot Doc 격파 - Security Docs](https://docs.spring.io/spring-security/site/docs/5.0.19.RELEASE/reference/htmlsingle/) [:running:]
-
-## 30th
+### 30th
 - 빠진 실습(JSON 핸들링) 꼭 해보기.
 - JS Object 실습 bounce ball
 - MDN JS Asynchronous [ :white_check_mark: ]
@@ -147,13 +138,41 @@ today i learned
 
 헉헉.. 파일 업로드와 전쟁을 쫌 치룬다고 시간을 많이 보냈다..
 
-## 31th
+### 31th
 - MDN JS Promise 
 - FileUpload와 FormData, HTTP Post 요청 구성요소 파헤치기
 
+### 월간 회고
+MDN을 꼼꼼히 잘 읽어야겠다. 정리한 부분도 다시 리뷰하면서, 입문자들이 읽어도 이해할 수 있는 내용으로 정리해서 자산으로 만들고 싶다.
+정신이 없어서, 계획했던 것보다 많이 못한듯하면서, 많이 배울 수 있었던 한달이였다. 공부할 수 있는 에너지와 시간을 늘리는 방법에대해 고민해봐야겠다.
+월초에 세웠던 계획이 두루뭉실하다는 것을 느꼈다. 계획도 중간중간 다시 보면서 구체적이게 변경하는 것도 좋겠다. 
+MDN 한글문서를 보면서 영어 원문을 보기 시작했고, 영어 단어 정리와 공부를 쫌더 꼼꼼히하게되었다.
+
+## 22. JUN daily
+목표 :
+1. MDN - HTML Structuring the web, CSS Styling the web 정리.
+2. MDN - JS Dynamic client-side scripting 정리.
+3. MDN - Web forms (Working with user data), Accessibility (Make the web usable by everyone). 정리는 늦어도 됨. 빠르게 읽자.
+4. MDN - Server side website programming 드가자!!
+5. Vanila JS로 크롬 앱 만들기.
+6. Spring boot 기본 Security, MVC, CoC 공식문서 읽고 정리. 실험. (사용하는 기능우선)
+7. SpringBoot, thymeleaf, CSS, 바닐라로 내 홈페이지 만들기.
+
+### 2th
+- 빠진 실습(JSON 핸들링) 꼭 해보기.
+- JS Object 실습 bounce ball
+- MDN JS Promise [:running:]
 
 ---
 
+### 업보
+- 복습 : 정리한 내용 다시 정독. 교육 컨텐츠로써 내용 보강하기. 느낀점과 내가 보강해야할 내용 체크하기.
+- Java Spring-boot 백오피스 멀티모듈 구성 build 스크립트 꼭 완성하기! 기본동작 확인해고 제품 확인 필수
+- [Spring/Spring-boot version 별 특징](https://velog.io/@jh8579/Spring-%EB%B2%84%EC%A0%BC%EB%B3%84-%ED%8A%B9%EC%A7%95)
+- [SpringBoot Doc 격파 - Uploading Files](https://spring.io/guides/gs/uploading-files/) 
+  - [mvc-flash-attributes 이게 모야?](https://docs.spring.io/spring-framework/docs/current/reference/html/web.html#mvc-flash-attributes)
+- [SpringBoot Doc 격파 - Security Architecture](https://spring.io/guides/topicals/spring-security-architecture/) 
+- [SpringBoot Doc 격파 - Security Docs](https://docs.spring.io/spring-security/site/docs/5.0.19.RELEASE/reference/htmlsingle/) 
 - [MDN Front-end web developer 과정 체크](https://developer.mozilla.org/ko/docs/Learn/Front-end_web_developer)
 spring 5.3.20 Docs 기준
 - [SpringBoot Doc 격파 - Testing](https://docs.spring.io/spring-framework/docs/current/reference/html/testing.html#testing)
