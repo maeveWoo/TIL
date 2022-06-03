@@ -34,3 +34,8 @@ spring 5.3.20 Docs 기준
 
 ---
 [22.05 TIL](README-22-MAY.md)
+
+---
+# 공부 정리 구경하러가기
+- [JavaScript](https://github.com/maeveWoo/javascript)
+- [Springboot Labs](https://github.com/maeveWoo/spring-boot-labs)
