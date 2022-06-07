@@ -10,9 +10,15 @@ today i learned
 - MDN JS Promise [:running:]
 
 ### 3th
-- MDN JS Promise [:running:]
+- MDN JS Promise [ :white_check_mark: ]
 
 할일이 생겨서 공부를 많이 못하는 중..
+
+### 7th
+- MDN JS Worker
+- [2022 웹 개발에서 고려해야 할 환경 - Line 블로그 읽기](https://engineering.linecorp.com/ko/blog/the-baseline-for-web-development-in-2022/)
+
+휴일은 너무 달콤했다..
 
 ---
 
