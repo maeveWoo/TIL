@@ -21,7 +21,13 @@ today i learned
 휴일은 너무 달콤했다..
 
 ### 8th
-- Client-side web APIs 
+- Client-side web APIs [:white_check_mark:]
+- Spring Security 복습. Spring labs 시큐러티 설정 구현 정리 test config
+
+### 9th
+- [Thymeleaf list표현 및  정렬 알고리즘 사용법](https://frontbackend.com/thymeleaf/thymeleaf-utility-methods-for-lists)
+- [Springboot Date format convert 제일 정리잘된 블로그](https://browndwarf.tistory.com/48)
+- [SSR(thymeleaf에서 모든 페이지에서 사용하는 menudata interceptor로 처리하기(참고 블로그)](https://livenow14.tistory.com/61)
 
 ---
 
