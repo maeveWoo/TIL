@@ -28,6 +28,7 @@ today i learned
 - [Thymeleaf list표현 및  정렬 알고리즘 사용법](https://frontbackend.com/thymeleaf/thymeleaf-utility-methods-for-lists)
 - [Springboot Date format convert 제일 정리잘된 블로그](https://browndwarf.tistory.com/48)
 - [SSR(thymeleaf에서 모든 페이지에서 사용하는 menudata interceptor로 처리하기(참고 블로그)](https://livenow14.tistory.com/61)
+- [Spring interceptor 빈주입시 유의사항](https://eastglow.github.io/back-end/2019/08/01/Spring-Interceptor-%EC%82%AC%EC%9A%A9-%EC%8B%9C-%EC%9D%98%EC%A1%B4%EC%84%B1-%EC%A3%BC%EC%9E%85%EC%9D%B4-%EC%95%88%EB%90%98%EB%8A%94-%EA%B2%BD%EC%9A%B0.html)
 
 ---
 
