@@ -30,6 +30,9 @@ today i learned
 - [SSR(thymeleaf에서 모든 페이지에서 사용하는 menudata interceptor로 처리하기(참고 블로그)](https://livenow14.tistory.com/61)
 - [Spring interceptor 빈주입시 유의사항](https://eastglow.github.io/back-end/2019/08/01/Spring-Interceptor-%EC%82%AC%EC%9A%A9-%EC%8B%9C-%EC%9D%98%EC%A1%B4%EC%84%B1-%EC%A3%BC%EC%9E%85%EC%9D%B4-%EC%95%88%EB%90%98%EB%8A%94-%EA%B2%BD%EC%9A%B0.html)
 
+### 10th
+- Manipulating documents [:white_check_mark:]
+
 ---
 
 ### 업보
