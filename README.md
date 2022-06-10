@@ -32,6 +32,8 @@ today i learned
 
 ### 10th
 - Manipulating documents [:white_check_mark:]
+- [D2 SSR 읽기](https://d2.naver.com/helloworld/7804182)
+- [Spring Security Test 읽기](https://docs.spring.io/spring-security/reference/reactive/test/method.html)
 
 ---
 
@@ -52,7 +54,7 @@ spring 5.3.20 Docs 기준
 바닐라JS -> ECMA정리 -> React/Node.js -> 내 홈페이지 Node.js / React기반으로 마이그레이션 -> 서비스 올리기
 
 ---
-[22.05 TIL](README-22-MAY.md)
+- [22.05 TIL](README-22-MAY.md)
 
 ---
 # 공부 정리 구경하러가기
