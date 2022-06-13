@@ -4,6 +4,16 @@ today i learned
 
 ---
 
+## 22. JUN daily
+목표 :
+1. MDN - HTML Structuring the web, CSS Styling the web 정리.
+2. MDN - JS Dynamic client-side scripting 정리.
+3. MDN - Web forms (Working with user data), Accessibility (Make the web usable by everyone). 정리는 늦어도 됨. 빠르게 읽자.
+4. MDN - Server side website programming 드가자!!
+5. Vanila JS로 크롬 앱 만들기.
+6. Spring boot 기본 Security, MVC, CoC 공식문서 읽고 정리. 실험. (사용하는 기능우선)
+7. SpringBoot, thymeleaf, CSS, 바닐라로 내 홈페이지 만들기.
+
 ### 2th
 - 빠진 실습(JSON 핸들링) 꼭 해보기.
 - JS Object 실습 bounce ball
@@ -34,6 +44,10 @@ today i learned
 - Manipulating documents [:white_check_mark:]
 - [D2 SSR 읽기](https://d2.naver.com/helloworld/7804182)
 - [Spring Security Test 읽기](https://docs.spring.io/spring-security/reference/reactive/test/method.html)
+
+### 11th
+- MDN Server-side website programming 들어가기.
+- 포트폴리오 틀잡기
 
 ---
 
