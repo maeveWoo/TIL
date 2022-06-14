@@ -142,12 +142,4 @@ MDN을 꼼꼼히 잘 읽어야겠다. 정리한 부분도 다시 리뷰하면서
 월초에 세웠던 계획이 두루뭉실하다는 것을 느꼈다. 계획도 중간중간 다시 보면서 구체적이게 변경하는 것도 좋겠다.
 MDN 한글문서를 보면서 영어 원문을 보기 시작했고, 영어 단어 정리와 공부를 쫌더 꼼꼼히하게되었다.
 
-## 22. JUN daily
-목표 :
-1. MDN - HTML Structuring the web, CSS Styling the web 정리.
-2. MDN - JS Dynamic client-side scripting 정리.
-3. MDN - Web forms (Working with user data), Accessibility (Make the web usable by everyone). 정리는 늦어도 됨. 빠르게 읽자.
-4. MDN - Server side website programming 드가자!!
-5. Vanila JS로 크롬 앱 만들기.
-6. Spring boot 기본 Security, MVC, CoC 공식문서 읽고 정리. 실험. (사용하는 기능우선)
-7. SpringBoot, thymeleaf, CSS, 바닐라로 내 홈페이지 만들기.
+

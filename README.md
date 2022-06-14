@@ -10,9 +10,11 @@ today i learned
 2. MDN - JS Dynamic client-side scripting 정리.
 3. MDN - Web forms (Working with user data), Accessibility (Make the web usable by everyone). 정리는 늦어도 됨. 빠르게 읽자.
 4. MDN - Server side website programming 드가자!!
-5. Vanila JS로 크롬 앱 만들기.
 6. Spring boot 기본 Security, MVC, CoC 공식문서 읽고 정리. 실험. (사용하는 기능우선)
 7. SpringBoot, thymeleaf, CSS, 바닐라로 내 홈페이지 만들기.
+8. 알고리즘 공부
+9. Encode / Decode와 바이너리 다루기
+10. 
 
 ### 2th
 - 빠진 실습(JSON 핸들링) 꼭 해보기.
@@ -45,9 +47,16 @@ today i learned
 - [D2 SSR 읽기](https://d2.naver.com/helloworld/7804182)
 - [Spring Security Test 읽기](https://docs.spring.io/spring-security/reference/reactive/test/method.html)
 
-### 11th
+### 13th
 - MDN Server-side website programming 들어가기.
 - 포트폴리오 틀잡기
+
+### 14th
+- MDN JS third party APIS
+- MDN Server-side Intro [:white_check_mark:]
+- [encode/decode 개념 정리 문서읽](https://datatracker.ietf.org/doc/html/rfc4648)
+
+헠헠.. 웹 공부가 부족해! 더 공부해야되!!
 
 ---
 
@@ -64,8 +73,6 @@ spring 5.3.20 Docs 기준
 - [SpringBoot Doc 격파 - Testing](https://docs.spring.io/spring-framework/docs/current/reference/html/testing.html#testing)
 - [SpringBoot Doc 격파 - Core](https://docs.spring.io/spring-framework/docs/current/reference/html/core.html#spring-core)
 - [SpringBoot Doc 격파 - Web Servlet](https://docs.spring.io/spring-framework/docs/current/reference/html/web.html#spring-web)
-
-바닐라JS -> ECMA정리 -> React/Node.js -> 내 홈페이지 Node.js / React기반으로 마이그레이션 -> 서비스 올리기
 
 ---
 - [22.05 TIL](README-22-MAY.md)
