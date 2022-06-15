@@ -58,6 +58,16 @@ today i learned
 
 헠헠.. 웹 공부가 부족해! 더 공부해야되!!
 
+### 15th
+- MDN JS third party APIS
+- Spring Labs 사용자, 어드민, ROLEs 세팅 시큐러티 설정 업데이트 [:white_check_mark:]
+- thymeleaf layout 구성해보기. 부트스트랩 적용 뚱딱. [:white_check_mark:]
+- thymeleaf layout authorization fillter 적용하기 [:white_check_mark:]
+- [thymeleaf layout dialect](https://ultraq.github.io/thymeleaf-layout-dialect/)
+  - 버전별 디테일에서 시간이 터졌다..
+- 집 데스크탑 리눅스 서버 세팅하기 [:white_check_mark:]
+- [CSRF 읽고 정리하기](https://portswigger.net/web-security/csrf)
+
 ---
 
 ### 업보
