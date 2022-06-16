@@ -68,6 +68,13 @@ today i learned
 - 집 데스크탑 리눅스 서버 세팅하기 [:white_check_mark:]
 - [CSRF 읽고 정리하기](https://portswigger.net/web-security/csrf)
 
+### 16th
+- spring-labs thymeleaf security, layout dialect 정리 [:white_check_mark:]
+- [java download file 구현해보기](https://www.baeldung.com/java-download-file)
+- MDN JS third party APIS
+
+헠헠 이미지 도메인 파기!어디까지 할 수있나 궁그미
+
 ---
 
 ### 업보
